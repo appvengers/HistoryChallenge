@@ -1,5 +1,5 @@
 # HistoryChallenge
-Historia en MarkDown
+Estoy haciendo un conflicto
 
 <<<<<<< HEAD
 Este es un cambio hecho por Fernanda.
